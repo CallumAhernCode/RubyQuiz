@@ -1,5 +1,5 @@
 
-secret_word = "carlos"  
+secret_word = "poop"  
 guess = ""       
 guess_count = 0
 guess_limit = 5
